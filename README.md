@@ -50,11 +50,21 @@ SQL — Estruturação e gerenciamento da base de dados
 
 Abaixo estão algumas telas do aplicativo, demonstrando o funcionamento em diferentes plataformas:
 
-📱 Versão Mobile
+## 📷 Demonstração da Aplicação
 
-📱 Versão Tablet
+### 📱 Versão Mobile
+![Tela inicial - Mobile](imagens/1.png)
+![Abas de controle](imagens/2.png)
+![Formulário do veículo](imagens/3.png)
 
-💻 Versão Desktop
+### 📱 Versão Tablet
+![Visão geral - Tablet](imagens/4.png)
+![Detalhamento do veículo](imagens/5.png)
+
+### 💻 Versão Desktop
+![Tela inicial - Desktop](imagens/6.png)
+![Gestão da frota](imagens/7.png)
+![Controle por status](imagens/8.png)
 
 📦 Disponibilização
 
