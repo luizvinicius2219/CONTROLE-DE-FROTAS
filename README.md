@@ -52,19 +52,17 @@ Abaixo estão algumas telas do aplicativo, demonstrando o funcionamento em difer
 
 ## 📷 Demonstração da Aplicação
 
-### 📱 Versão Mobile
 ![Tela inicial - Mobile](imagens/1.png)
 ![Abas de controle](imagens/2.png)
 ![Formulário do veículo](imagens/3.png)
-
-### 📱 Versão Tablet
 ![Visão geral - Tablet](imagens/4.png)
 ![Detalhamento do veículo](imagens/5.png)
-
-### 💻 Versão Desktop
 ![Tela inicial - Desktop](imagens/6.png)
 ![Gestão da frota](imagens/7.png)
 ![Controle por status](imagens/8.png)
+![Controle por status](imagens/9.png)
+![Controle por status](imagens/10.png)
+![Controle por status](imagens/11.png)
 
 📦 Disponibilização
 
